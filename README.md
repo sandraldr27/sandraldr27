@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandra León-Del Risco</h1>
-<h3 align="center">Fullstack Developer Jr. & Industrial Engineering (MBA). I am currently looking for new directions, so I am studying to be a fullstack developer at the FEM Coders F5 bootcamp in Malaga. Passionate about agile methodologies and team management with AGILE (With SCRUM) and KANBAN.</h3>
+<h3 align="justify">
+  
+    Fullstack Developer Jr. & Industrial Engineering (MBA). 
+    Studying at the FEM Coders Málaga P1 Bootcamp
+    Passionate about agile methodologies and team management with AGILE (With SCRUM) and KANBAN.
+  
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
 
@@ -13,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandraldr27](https://github.com/sandraldr27)
 
-- 💬 Ask me about **Fullstack development in Factoria F5 & Industrial Engineer**
+- 💬 Ask me about **Fullstack Development Jr. in Factoria F5**
 
 - 📫 How to reach me **sandralilder@gmail.com**
 
