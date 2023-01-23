@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra León-Del Risco</h1>
 <h3 align="justify">
   
-    Fullstack Developer Jr. & Industrial Engineering (MBA). 
+    Fullstack Web Developer & Industrial Engineering (MBA). 
     Studying at the FEM Coders Málaga P1 Bootcamp
     Passionate about agile methodologies and team management (AGILE With SCRUM & KANBAN).
   
