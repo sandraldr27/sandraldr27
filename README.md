@@ -3,7 +3,7 @@
   
     Fullstack Web Developer & Industrial Engineering (MBA). 
     Studying at the FEM Coders Málaga P1 Bootcamp
-    Passionate about agile methodologies and team management (AGILE With SCRUM & KANBAN).
+    Passionate about agile methodologies and team management (SCRUM & KANBAN).
   
  </h3>
 
