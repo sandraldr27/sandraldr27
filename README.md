@@ -154,6 +154,23 @@
 </a>   
 </p>
 
+<h4>OS</h4>
+<p align="left">
+  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" width="110" height="40"/>
+</a> 
+
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="110" height="40"/>
+</a> 
+  
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" width="110" height="40"/>
+</a>
+  
+</p>
+
 <h4>Design</h4>  
 
 <p align="left"> 
