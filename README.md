@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra León Del Risco</h1>
-<h2 align="center">Fullstack Web Developer Jr.</h2>
+<h2 align="center">Fullstack Web Developer</h2>
 
 <h3 align="left">Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
