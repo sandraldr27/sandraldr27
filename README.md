@@ -32,16 +32,16 @@
  
 <h3>Projects</h3>
 <ul>
-<li>🔭 I’m currently working on **Various personal projects**</li>
+  <li>🔭 I’m currently working on <b>Various personal projects</b></li>
 
-<li>👨‍💻 All of my projects are available at [https://github.com/sandraldr27](https://github.com/sandraldr27)</li>
+<li>👨‍💻 All of my projects are available at https://github.com/sandraldr27</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <ul>
-  <li>📫 How to reach me **sandralilder@gmail.com**</li>
-<li>📄 Know about my experiences https://www.linkedin.com/in/sandraldr/](https://www.linkedin.com/in/sandraldr/)</li>
+  <li>📫 How to reach me <b>sandralilder@gmail.com</b></li>
+<li>📄 Know about my experiences https://www.linkedin.com/in/sandraldr/</li>
 </ul>
 
 <a href="https://twitter.com/slilder_ldr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slilder_ldr" height="30" width="40" /></a>
