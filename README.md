@@ -1,40 +1,229 @@
-<h1 align="center">Hi 👋, I'm Sandra León-Del Risco</h1>
-<h3 align="justify">
-  
-    Fullstack Web Developer & Industrial Engineering (MBA). 
-    Graduated from the FEM Coders Málaga P1 Bootcamp
-    Passionate about agile methodologies and team management (SCRUM & KANBAN).
-  
- </h3>
+<h1 align="center">Hi 👋, I'm Sandra León Del Risco</h1>
+<h2 align="center">Fullstack Web Developer</h2>
 
+<h3 align="left">Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandraldr27" alt="sandraldr27" /></a> </p>
+<h3 align="justify">
+  
+<h3 align="justify">Sobre mí</h3>
+<p align="justify">Fullstack Web Developer e Ing. Industrial, con MBA en Dirección y Administración de Empresas.</p>
 
-<p align="left"> <a href="https://twitter.com/slilder_ldr" target="blank"><img src="https://img.shields.io/twitter/follow/slilder_ldr?logo=twitter&style=for-the-badge" alt="slilder_ldr" /></a> </p>
+<p align="justify">Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
 
-- 🔭 I’m currently working on **Various projects for FEM Coders P1**
+<p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos haciendo uso de la metodología Kanban, Calidad Total (TQM) y Mejora Continua. Desde que incursioné en el mundo de la programación, he aprendido y practicado también el marco de trabajo Scrum y metodología Agile.</p>
 
-- 👯 I’m looking to collaborate on **Various projects for FEM Coders P1**
+<p align="justify">He recibido formación (Bootcamp de 850 horas) para ser Desarrolladora Web Full Stack, trabajando en proyectos reales. Gracias al mismo he descubierto mi pasión por el desarrollo backend. Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sandraldr27](https://github.com/sandraldr27)
+<p align="justify">A nivel personal gusto de la literatura (Narrativa histórica), pasear en medio de la naturaleza, la música (Toco piano y guitarra), viajar, conocer otras culturas, la psicología, el crecimiento personal y las artes marciales (Soy cinturón marrón en Karate Shotokan, deporte que me ha enseñado valores como: Respeto, perseverancia, constancia, dedicación y trabajo en equipo).</p>
+  
+<h3> About Me</h3>
+<P align="justify">Fullstack Web Developer and Industrial Engineer, with an MBA in Management and Business Administration.</p>
 
-- 💬 Ask me about **Fullstack Development Jr. in Factoria F5**
+<p align="justify">I am passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
-- 📫 How to reach me **sandralilder@gmail.com**
+<p align="justify">I am a methodical and organized professional. I have experience in project management using the Kanban methodology, Total Quality (TQM) and Continuous Improvement. Since I ventured into the world of programming, I have also learned and practiced the Scrum framework and Agile methodology.</p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sandraldr/](https://www.linkedin.com/in/sandraldr/)
+<p align="justify">I have received training (850-hour Bootcamp) to be a Full Stack Web Developer, working on real projects. Thanks to it, I have discovered my passion for backend development. I am characterized by being a person who likes to investigate and learn, hence I continue to train myself in other programming languages to continue growing and developing professionally.</p>
+
+<p align="justify">On a personal level, I enjoy literature (Historical Narrative), walking in nature, music (I play piano and guitar), traveling, getting to know other cultures, psychology, personal growth and martial arts (I am a brown belt in Karate Shotokan, a sport that has taught me values such as: Respect, perseverance, constancy, dedication and teamwork).</p>
+  
+ </h3>
+ 
+<h3>Projects</h3>
+<ul>
+<li>🔭 I’m currently working on **Various personal projects**</li>
+
+<li>👨‍💻 All of my projects are available at [https://github.com/sandraldr27](https://github.com/sandraldr27)</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<ul>
+  <li>📫 How to reach me **sandralilder@gmail.com**</li>
+<li>📄 Know about my experiences [https://www.linkedin.com/in/sandraldr/](https://www.linkedin.com/in/sandraldr/)</li>
+</ul>
+
 <a href="https://twitter.com/slilder_ldr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slilder_ldr" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandraleondelrisco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra león-del risco" height="30" width="40" /></a>
 <a href="https://instagram.com/sandraldr27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandraldr27" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/slilder_ldr" target="blank"><img src="https://img.shields.io/twitter/follow/slilder_ldr?logo=twitter&style=for-the-badge" alt="slilder_ldr" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
+<h4>Languages:</h4>
+<p align="left">
+  
+<a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="110" height="40"/>
+</a>    
+  
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="110" height="40"/>
+</a> 
+  
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javaScript" width="110" height="40"/>
+</a>   
+  
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" width="110" height="40"/>
+</a>     
+  
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="110" height="40"/>
+</a>    
+
+<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" width="110" height="40"/>
+</a>
+  
+<a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="110" height="40"/>
+</a>
+  
+</p>
+
+<h4>Frameworks & Library</h4>
+<p align="left"> 
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="110" height="40"/>
+</a> 
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" width="110" height="40"/>
+</a> 
+  
+<a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" alt="composer" width="110" height="40"/>
+</a> 
+  
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" width="110" height="40"/>
+</a>
+  
+<a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node js" width="110" height="40"/>
+</a>   
+  
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="110" height="40"/>
+</a>  
+  
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" width="110" height="40"/>
+</a> 
+  
+<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="110" height="40"/>
+</a>  
+  
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue" width="110" height="40"/>
+</a> 
+  
+<a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="xampp" width="110" height="40"/>
+</a>  
+  
+<h4>Database</h4>
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mySql" width="110" height="40"/>
+</a> 
+</p>
+
+<h4>IDE</h4>  
+<p align="left"> 
+<a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" width="110" height="40"/>
+</a> 
+  
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" width="110" height="40"/>
+</a>  
+  
+<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime" width="110" height="40"/>
+</a>   
+  
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCOde" width="110" height="40"/>
+</a>   
+</p>
+
+<h4>Design</h4>  
+
+<p align="left"> 
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" width="110" height="40"/>
+</a>  
+  
+<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp" width="110" height="40"/>
+</a>
+</p>
+  
+
+<h4>Office & work organization</h4>
+<p align="left">
+  
+<a href="https://es.libreoffice.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" alt="libreoffice" width="110" height="40"/>
+</a>  
+  
+<a href="https://www.microsoft.com/es-es/microsoft-365/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="microsoft office" width="110" height="40"/>
+</a>  
+  
+<a href="https://miro.com/login/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="miro" width="110" height="40"/>
+</a>   
+  
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" width="110" height="40"/>
+</a>   
+  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="110" height="40"/>
+</a>   
+ 
+</p>
+
+<h4>Communication</h4>
+<p align="left">
+  
+<a href="https://discord.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" width="110" height="40"/>
+</a>  
+ 
+<a href="https://slack.com/intl/es-es" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" width="110" height="40"/>
+</a>  
+  
+<a href="https://meet.google.com/?pli=1" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="google meet" width="110" height="40"/>
+</a>
+  
+<a href="https://www.microsoft.com/es-es/microsoft-teams/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="microsoft teams" width="110" height="40"/>
+</a>  
+  
+<a href="https://www.skype.com/es/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="skype" width="110" height="40"/>
+</a>   
+
+<a href="https://zoom.us/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom" width="110" height="40"/>
+</a> 
+  
+</p>  
+
+<h4>More Information</h4>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandraldr27" alt="sandraldr27" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandraldr27&show_icons=true&locale=en&layout=compact" alt="sandraldr27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandraldr27&show_icons=true&locale=en" alt="sandraldr27" /></p>
