@@ -41,7 +41,7 @@
 <p align="left">
 <ul>
   <li>📫 How to reach me **sandralilder@gmail.com**</li>
-<li>📄 Know about my experiences [https://www.linkedin.com/in/sandraldr/](https://www.linkedin.com/in/sandraldr/)</li>
+<li>📄 Know about my experiences https://www.linkedin.com/in/sandraldr/](https://www.linkedin.com/in/sandraldr/)</li>
 </ul>
 
 <a href="https://twitter.com/slilder_ldr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slilder_ldr" height="30" width="40" /></a>
