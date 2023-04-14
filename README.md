@@ -40,7 +40,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <ul>
-  <li>📫 How to reach me <b>sandralilder@gmail.com</b></li>
+  <li>📫 How to reach me <b>sandraldr.dev@gmail.com</b></li>
 <li>📄 Know about my experiences https://www.linkedin.com/in/sandraldr/</li>
 </ul>
 
