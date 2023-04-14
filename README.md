@@ -20,13 +20,13 @@
 <h3> About Me</h3>
 <P align="justify">Fullstack Web Developer and Industrial Engineer, with an MBA in Management and Business Administration.</p>
 
-<p align="justify">I am passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
+<p align="justify">I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
-<p align="justify">I am a methodical and organized professional. I have experience in project management using the Kanban methodology, Total Quality (TQM) and Continuous Improvement. Since I ventured into the world of programming, I have also learned and practiced the Scrum framework and Agile methodology.</p>
+<p align="justify">I'm a methodical and organized professional. I have experience in project management using the Kanban methodology, Total Quality (TQM) and Continuous Improvement. Since I ventured into the world of programming, I have also learned and practiced the Scrum framework and Agile methodology.</p>
 
-<p align="justify">I have received training (850-hour Bootcamp) to be a Full Stack Web Developer, working on real projects. Thanks to it, I have discovered my passion for backend development. I am characterized by being a person who likes to investigate and learn, hence I continue to train myself in other programming languages to continue growing and developing professionally.</p>
+<p align="justify">I have received training (850-hour Bootcamp) to be a Full Stack Web Developer, working on real projects. Thanks to it, I have discovered my passion for backend development. I'm characterized by being a person who likes to investigate and learn, hence I continue to train myself in other programming languages to continue growing and developing professionally.</p>
 
-<p align="justify">On a personal level, I enjoy literature (Historical Narrative), walking in nature, music (I play piano and guitar), traveling, getting to know other cultures, psychology, personal growth and martial arts (I am a brown belt in Karate Shotokan, a sport that has taught me values such as: Respect, perseverance, constancy, dedication and teamwork).</p>
+<p align="justify">On a personal level, I enjoy literature (Historical Narrative), walking in nature, music (I play piano and guitar), traveling, getting to know other cultures, psychology, personal growth and martial arts (I'm a brown belt in Karate Shotokan, a sport that has taught me values such as: Respect, perseverance, constancy, dedication and teamwork).</p>
   
  </h3>
  
