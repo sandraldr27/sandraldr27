@@ -181,6 +181,10 @@
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp" width="110" height="40"/>
 </a>
+
+<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="110" height="40"/>
+</a>
 </p>
   
 
