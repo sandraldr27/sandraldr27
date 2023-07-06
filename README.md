@@ -7,18 +7,18 @@
 <h3 align="justify">
   
 <h3 align="justify">Sobre mí</h3>
-<p align="justify">Fullstack Web Developer e Ing. Industrial, con MBA en Dirección y Administración de Empresas.</p>
+<p align="justify">Fullstack Web Developer, Software Tester & Project Manager.</p>
 
 <p align="justify">Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
 
 <p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos haciendo uso de la metodología Kanban, Calidad Total (TQM) y Mejora Continua. Desde que incursioné en el mundo de la programación, he aprendido y practicado también el marco de trabajo Scrum y metodología Agile.</p>
 
-<p align="justify">He recibido formación (Bootcamp de 850 horas) para ser Desarrolladora Web Full Stack, trabajando en proyectos reales. Gracias al mismo he descubierto mi pasión por el desarrollo backend. Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
+<p align="justify">He recibido formación (Bootcamp y prácticas de 950 horas) para ser Desarrolladora Web Full Stack, trabajando en proyectos reales. Gracias al mismo he descubierto mi pasión por el desarrollo backend. Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
 
 <p align="justify">A nivel personal gusto de la literatura (Narrativa histórica), pasear en medio de la naturaleza, la música (Toco piano y guitarra), viajar, conocer otras culturas, la psicología, el crecimiento personal y las artes marciales (Soy cinturón marrón en Karate Shotokan, deporte que me ha enseñado valores como: Respeto, perseverancia, constancia, dedicación y trabajo en equipo).</p>
   
 <h3> About Me</h3>
-<P align="justify">Fullstack Web Developer and Industrial Engineer, with an MBA in Management and Business Administration.</p>
+<P align="justify">Fullstack Web Developer, Software Tester & Project Manager.</p>
 
 <p align="justify">I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
