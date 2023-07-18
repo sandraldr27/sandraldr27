@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra León</h1>
-<h2 align="center">Fullstack Web Developer</h2>
+<h2 align="center">Fullstack Web Developer, Software Tester & Project Managerr</h2>
 
 <h3 align="left">Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
@@ -7,7 +7,6 @@
 <h3 align="justify">
   
 <h3 align="justify">Sobre mí</h3>
-<p align="justify">Fullstack Web Developer, Software Tester & Project Manager.</p>
 
 <p align="justify">Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
 
@@ -18,7 +17,6 @@
 <p align="justify">A nivel personal gusto de la literatura (Narrativa histórica), pasear en medio de la naturaleza, la música (Toco piano y guitarra), viajar, conocer otras culturas, la psicología, el crecimiento personal y las artes marciales (Soy cinturón marrón en Karate Shotokan, deporte que me ha enseñado valores como: Respeto, perseverancia, constancia, dedicación y trabajo en equipo).</p>
   
 <h3> About Me</h3>
-<P align="justify">Fullstack Web Developer, Software Tester & Project Manager.</p>
 
 <p align="justify">I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
