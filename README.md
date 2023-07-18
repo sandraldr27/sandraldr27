@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandra León Del Risco</h1>
+<h1 align="center">Hi 👋, I'm Sandra León</h1>
 <h2 align="center">Fullstack Web Developer</h2>
 
 <h3 align="left">Profile Views</h3>
