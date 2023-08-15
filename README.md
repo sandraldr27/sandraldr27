@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra León</h1>
-<h2 align="center">Fullstack Web Developer, Software Tester & Project Managerr</h2>
+<h2 align="center">Fullstack Web Developer, Software Tester & Project Manager</h2>
 
 <h3 align="left">Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
