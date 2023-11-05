@@ -8,23 +8,47 @@
   
 <h3 align="justify">Sobre mí</h3>
 
-<p align="justify">Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
+<p align="justify">Formada en Desarrollo Web Fullstack y trabajando como System Developer en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
 
-<p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos haciendo uso de la metodología Kanban, Calidad Total (TQM) y Mejora Continua. Desde que incursioné en el mundo de la programación, he aprendido y practicado también el marco de trabajo Scrum y metodología Agile.</p>
+<p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kanban, Scrum, Scrumban, Calidad Total (TQM) y Mejora Continua.</p>
 
-<p align="justify">He recibido formación (Bootcamp y prácticas de 950 horas) para ser Desarrolladora Web Full Stack, trabajando en proyectos reales. Gracias al mismo he descubierto mi pasión por el desarrollo backend. Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
+<p align="justify">Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
 
 <p align="justify">A nivel personal gusto de la literatura (Narrativa histórica), pasear en medio de la naturaleza, la música (Toco piano y guitarra), viajar, conocer otras culturas, la psicología, el crecimiento personal y las artes marciales (Soy cinturón marrón en Karate Shotokan, deporte que me ha enseñado valores como: Respeto, perseverancia, constancia, dedicación y trabajo en equipo).</p>
+
+<p>Cuento con los siguientes estudios de Máster y especializaciones: 
+  <ul>
+    <li>MBA (ENEB - Universidad Isabel I de Castilla)</li>
+    <li>Máster en Dirección de Equipos (ENEB - Universidad Isabel I de Castilla)</li> 
+    <li>Máster en Gestión Hospitalaria (Universidad Alcalá de Henares)</li> 
+    <li>Máster en Gestión de la Calidad Total TQM (ITEAP)</li> 
+    <li>Diploma Universitario en Coaching y PNL (ENEB - Universidad Isabel I de Castilla)</li> 
+    <li>Certificado Profesional en Gestión de Proyectos (Google)</li> 
+    <li>Certificado Profesional en Soporte IT (Google)</li>
+  </ul>
+ </p>
   
 <h3> About Me</h3>
 
-<p align="justify">I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
+<p align="justify">Trained in Fullstack Web Development and working as a System Developer in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
-<p align="justify">I'm a methodical and organized professional. I have experience in project management using the Kanban methodology, Total Quality (TQM) and Continuous Improvement. Since I ventured into the world of programming, I have also learned and practiced the Scrum framework and Agile methodology.</p>
+<p align="justify">I am a methodical and organized professional. I have experience in project management and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kanban, Scrum, Scrumban, Total Quality (TQM) and Continuous Improvement.</p>
 
-<p align="justify">I have received training (850-hour Bootcamp) to be a Full Stack Web Developer, working on real projects. Thanks to it, I have discovered my passion for backend development. I'm characterized by being a person who likes to investigate and learn, hence I continue to train myself in other programming languages to continue growing and developing professionally.</p>
+<p align="justify">I'm characterized by being a person who likes to investigate and learn, hence I continue to train myself in other programming languages to continue growing and developing professionally.</p>
 
 <p align="justify">On a personal level, I enjoy literature (Historical Narrative), walking in nature, music (I play piano and guitar), traveling, getting to know other cultures, psychology, personal growth and martial arts (I'm a brown belt in Karate Shotokan, a sport that has taught me values such as: Respect, perseverance, constancy, dedication and teamwork).</p>
+
+<p>I have the following Master's studies and specializations:: 
+  <ul>
+    <li>MBA (ENEB - Isabel I University of Castilla)</li>
+    <li>Master in Team Management (ENEB - Isabel I University of Castilla)</li> 
+    <li>Master in Hospital Management (Alcalá de Henares University)</li> 
+    <li>Máster en Gestión de la Calidad Total TQM (ITEAP)</li> 
+    <li>University Diploma in Coaching and NLP (ENEB - Isabel I University of Castilla)</li> 
+    <li>Professional Certificate in Project Management (Google)</li> 
+    <li>Professional Certificate in IT Support (Google)</li>
+  </ul>
+ </p>
   
  </h3>
  
@@ -78,6 +102,10 @@
 <a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="110" height="40"/>
 </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="110" height="40"/>
+</a>
   
 </p>
 
@@ -123,6 +151,10 @@
 <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="xampp" width="110" height="40"/>
 </a>  
+
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" width="110" height="40"/>
+</a>
   
 <h4>Database</h4>
 <p align="left">
