@@ -43,7 +43,7 @@
     <li>MBA (ENEB - Isabel I University of Castilla)</li>
     <li>Master in Team Management (ENEB - Isabel I University of Castilla)</li> 
     <li>Master in Hospital Management (Alcalá de Henares University)</li> 
-    <li>Máster en Gestión de la Calidad Total TQM (ITEAP)</li> 
+    <li>Master in Total Quality Management (ITEAP)</li> 
     <li>University Diploma in Coaching and NLP (ENEB - Isabel I University of Castilla)</li> 
     <li>Professional Certificate in Project Management (Google)</li> 
     <li>Professional Certificate in IT Support (Google)</li>
