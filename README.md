@@ -12,6 +12,8 @@
 
 <p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kanban, Scrum, Scrumban, Calidad Total (TQM) y Mejora Continua.</p>
 
+<p>Cuento con experiencia internacional trabajando en proyectos en Europa y Latinoamérica (Sector banca, farmacéutico y hospitalario)</p>
+
 <p align="justify">Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
 
 <p align="justify">A nivel personal gusto de la literatura (Narrativa histórica), pasear en medio de la naturaleza, la música (Toco piano y guitarra), viajar, conocer otras culturas, la psicología, el crecimiento personal y las artes marciales (Soy cinturón marrón en Karate Shotokan, deporte que me ha enseñado valores como: Respeto, perseverancia, constancia, dedicación y trabajo en equipo).</p>
@@ -36,6 +38,8 @@
 <p align="justify">Trained in Engineering & Fullstack Web Development. Working as a System Developer in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
 <p align="justify">I am a methodical and organized professional. I have experience in project management and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kanban, Scrum, Scrumban, Total Quality (TQM) and Continuous Improvement.</p>
+
+<p>I have international experience working on projects in Europe and Latin America (Banking, pharmaceutical and hospital sectors).</p>
 
 <p align="justify">I'm characterized by being a person who likes to investigate and learn, hence I continue to train myself in other programming languages to continue growing and developing professionally.</p>
 
