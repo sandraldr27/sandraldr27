@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandra LDR Dev</h1>
+<h1 align="center">Hi 👋, I'm Sandra León-Del Risco L.</h1>
 <h2 align="center">MBA | System Developer | QA Tester | Project Manager</h2>
 
 <h3 align="left">Profile Views</h3>
@@ -25,8 +25,8 @@
     <li>Diploma Universitario en Coaching y PNL (ENEB - Universidad Isabel I de Castilla)</li> 
     <li>Certificado Profesional en Gestión de Proyectos (Google)</li> 
     <li>Certificado Profesional en Soporte IT (Google)</li>
-    <li>Evaluación y Acreditación de Competencias Profesionales en: Desarrollo de Software en entorno del cliente (Junta de Andalucía)</li>
-    <li>Evaluación y Acreditación de Competencias Profesionales en: Implementación, verificación y documentación de aplicaciones web en entornos internet, intranet y extranet.(Junta de Andalucía)</li>
+    <li>Acreditación de Competencias Profesionales en: Desarrollo de Software en entorno del cliente (Junta de Andalucía)</li>
+    <li>Acreditación de Competencias Profesionales en: Implementación, verificación y documentación de aplicaciones web en entornos internet, intranet y extranet.(Junta de Andalucía)</li>
     <li>PAP en Psicología (Universidad Autónoma de Barcelona)</li>
   </ul>
  </p>
@@ -50,8 +50,8 @@
     <li>University Diploma in Coaching and NLP (ENEB - Isabel I University of Castilla)</li> 
     <li>Professional Certificate in Project Management (Google)</li> 
     <li>Professional Certificate in IT Support (Google)</li>
-    <li>Evaluation and Accreditation of Professional Competencies in: Software Development in a client environment (Junta de Andalucía)</li>
-     <li>Evaluation and Accreditation of Professional Competencies in: Implementation, verification and documentation of web applications in internet, intranet and extranet environments. (Junta de Andalucía)</li>
+    <li>Accreditation of Professional Competencies in: Software Development in a client environment (Junta de Andalucía)</li>
+     <li>Accreditation of Professional Competencies in: Implementation, verification and documentation of web applications in internet, intranet and extranet environments. (Junta de Andalucía)</li>
     <li>PAP in Psychology (Autonomous University of Barcelona)</li>
   </ul>
  </p>
