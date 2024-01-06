@@ -8,7 +8,7 @@
   
 <h3 align="justify">Sobre mí</h3>
 
-<p align="justify">Formada en Desarrollo Web Fullstack y trabajando como System Developer en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
+<p align="justify">Formada en Ingeniería y Desarrollo Web Fullstack. Trabajando como System Developer en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
 
 <p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kanban, Scrum, Scrumban, Calidad Total (TQM) y Mejora Continua.</p>
 
@@ -33,7 +33,7 @@
   
 <h3> About Me</h3>
 
-<p align="justify">Trained in Fullstack Web Development and working as a System Developer in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
+<p align="justify">Trained in Engineering & Fullstack Web Development. Working as a System Developer in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
 <p align="justify">I am a methodical and organized professional. I have experience in project management and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kanban, Scrum, Scrumban, Total Quality (TQM) and Continuous Improvement.</p>
 
