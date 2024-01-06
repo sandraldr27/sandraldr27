@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandra León-Del Risco L.</h1>
+<h1 align="center">Sandra León-Del Risco L.</h1>
 <h2 align="center">MBA | System Developer | QA Tester | Project Manager</h2>
 
 <h3 align="left">Profile Views</h3>
