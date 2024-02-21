@@ -105,14 +105,6 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="110" height="40"/>
 </a>    
 
-<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" width="110" height="40"/>
-</a>
-  
-<a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="110" height="40"/>
-</a>
-
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="110" height="40"/>
 </a>
