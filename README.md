@@ -20,7 +20,7 @@
 
 <p>Cuento con los siguientes estudios de Máster y especializaciones: 
   <ul>
-    <li>MBA (ENEB - Universidad Isabel I de Castilla)</li>
+    <li>MBA - Máster en Administración y Dirección de Negocios (ENEB - Universidad Isabel I de Castilla)</li>
     <li>Máster en Dirección de Equipos (ENEB - Universidad Isabel I de Castilla)</li> 
     <li>Máster en Gestión Hospitalaria (Universidad Alcalá de Henares)</li> 
     <li>Máster en Gestión de la Calidad Total TQM (ITEAP)</li> 
@@ -47,7 +47,7 @@
 
 <p>I have the following Master's studies and specializations:: 
   <ul>
-    <li>MBA (ENEB - Isabel I University of Castilla)</li>
+    <li>MBA - Master of Business Administration (ENEB - Isabel I University of Castilla)</li>
     <li>Master in Team Management (ENEB - Isabel I University of Castilla)</li> 
     <li>Master in Hospital Management (Alcalá de Henares University)</li> 
     <li>Master in Total Quality Management (ITEAP)</li> 
