@@ -12,7 +12,7 @@
 
 <p align="justify">I am a methodical and organized professional. I have experience in project management and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kanban, Scrum, Scrumban, Total Quality (TQM) and Continuous Improvement.</p>
 
-<p>I have international experience working on projects in Europe, North America, Central America, South America, Middle East and Australia (Banking, pharmaceutical and hospital sectors)</p>
+<p>I have international experience working on projects in Europe, North America, Central America, South America, Middle East and Australia (Banking, pharmaceutical and hospital sectors).</p>
 
 <p align="justify">I'm characterized by being a person who likes to investigate and learn, hence I continue to train myself in other programming languages to continue growing and developing professionally.</p>
 
@@ -40,7 +40,7 @@
 
 <p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kanban, Scrum, Scrumban, Calidad Total (TQM) y Mejora Continua.</p>
 
-<p>Cuento con experiencia internacional trabajando en proyectos en Europa, Norte América, Centro América, Sudamérica, Oriente Medio y Australia (Sector banca, farmacéutico y hospitalario)</p>
+<p>Cuento con experiencia internacional trabajando en proyectos en Europa, Norte América, Centro América, Sudamérica, Oriente Medio y Australia (Sector banca, farmacéutico y hospitalario).</p>
 
 <p align="justify">Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
 
