@@ -5,42 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
 
 <h3 align="justify">
-  
-<h3 align="justify">Sobre mí</h3>
 
-<p align="justify">Formada en Ingeniería y Desarrollo Web Fullstack. Trabajando como PM | PMO en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
-
-<p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kanban, Scrum, Scrumban, Calidad Total (TQM) y Mejora Continua.</p>
-
-<p>Cuento con experiencia internacional trabajando en proyectos en Europa y Latinoamérica (Sector banca, farmacéutico y hospitalario)</p>
-
-<p align="justify">Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
-
-<p align="justify">A nivel personal gusto de la literatura (Narrativa histórica), pasear en medio de la naturaleza, la música (Toco piano y guitarra), viajar, conocer otras culturas, la psicología, el crecimiento personal y las artes marciales (Soy cinturón marrón en Karate Shotokan, deporte que me ha enseñado valores como: Respeto, perseverancia, constancia, dedicación y trabajo en equipo).</p>
-
-<p>Cuento con los siguientes estudios de Máster y especializaciones: 
-  <ul>
-    <li>MBA - Máster en Administración y Dirección de Negocios (ENEB - Universidad Isabel I de Castilla)</li>
-    <li>Máster en Dirección de Equipos (ENEB - Universidad Isabel I de Castilla)</li> 
-    <li>Máster en Gestión Hospitalaria (Universidad Alcalá de Henares)</li> 
-    <li>Máster en Gestión de la Calidad Total TQM (ITEAP)</li> 
-    <li>Diploma Universitario en Coaching y PNL (ENEB - Universidad Isabel I de Castilla)</li> 
-    <li>Scrum Master certificada por Scrum Alliance®</li>
-    <li>Certificado Profesional en Gestión de Proyectos (Google)</li> 
-    <li>Certificado Profesional en Soporte IT (Google)</li>
-    <li>Acreditación Oficial de Competencias Profesionales en: Desarrollo de Software en entorno del cliente (Junta de Andalucía)</li>
-    <li>Acreditación Oficial de Competencias Profesionales en: Implementación, verificación y documentación de aplicaciones web en entornos internet, intranet y extranet.(Junta de Andalucía)</li>
-    <li>PAP en Psicología (Universidad Autónoma de Barcelona)</li>
-  </ul>
- </p>
-  
 <h3> About Me</h3>
 
 <p align="justify">Trained in Engineering & Fullstack Web Development. Working as a PM | PMO in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
 <p align="justify">I am a methodical and organized professional. I have experience in project management and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kanban, Scrum, Scrumban, Total Quality (TQM) and Continuous Improvement.</p>
 
-<p>I have international experience working on projects in Europe and Latin America (Banking, pharmaceutical and hospital sectors).</p>
+<p>I have international experience working on projects in Europe. North America, Central America, South America, Middle East and Australia (Banking, pharmaceutical and hospital sectors)</p>
 
 <p align="justify">I'm characterized by being a person who likes to investigate and learn, hence I continue to train myself in other programming languages to continue growing and developing professionally.</p>
 
@@ -62,7 +34,35 @@
   </ul>
  </p>
   
- </h3>
+<h3 align="justify">Sobre mí</h3>
+
+<p align="justify">Formada en Ingeniería y Desarrollo Web Fullstack. Trabajando como PM | PMO en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
+
+<p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kanban, Scrum, Scrumban, Calidad Total (TQM) y Mejora Continua.</p>
+
+<p>Cuento con experiencia internacional trabajando en proyectos en Europa. Norte América, Centro América, Sudamérica, Oriente Medio y Australia (Sector banca, farmacéutico y hospitalario)</p>
+
+<p align="justify">Me caracterizo por ser una persona a la que le gusta investigar y aprender, de ahí que continúe formándome en otros lenguajes de programación para seguir creciendo y desarrollándome profesionalmente.</p>
+
+<p align="justify">A nivel personal gusto de la literatura (Narrativa histórica), pasear en medio de la naturaleza, la música (Toco piano y guitarra), viajar, conocer otras culturas, la psicología, el crecimiento personal y las artes marciales (Soy cinturón marrón en Karate Shotokan, deporte que me ha enseñado valores como: Respeto, perseverancia, constancia, dedicación y trabajo en equipo).</p>
+
+<p>Cuento con los siguientes estudios de Máster y especializaciones: 
+  <ul>
+    <li>MBA - Máster en Administración y Dirección de Negocios (ENEB - Universidad Isabel I de Castilla)</li>
+    <li>Máster en Dirección de Equipos (ENEB - Universidad Isabel I de Castilla)</li> 
+    <li>Máster en Gestión Hospitalaria (Universidad Alcalá de Henares)</li> 
+    <li>Máster en Gestión de la Calidad Total TQM (ITEAP)</li> 
+    <li>Diploma Universitario en Coaching y PNL (ENEB - Universidad Isabel I de Castilla)</li> 
+    <li>Scrum Master certificada por Scrum Alliance®</li>
+    <li>Certificado Profesional en Gestión de Proyectos (Google)</li> 
+    <li>Certificado Profesional en Soporte IT (Google)</li>
+    <li>Acreditación Oficial de Competencias Profesionales en: Desarrollo de Software en entorno del cliente (Junta de Andalucía)</li>
+    <li>Acreditación Oficial de Competencias Profesionales en: Implementación, verificación y documentación de aplicaciones web en entornos internet, intranet y extranet.(Junta de Andalucía)</li>
+    <li>PAP en Psicología (Universidad Autónoma de Barcelona)</li>
+  </ul>
+ </p>
+  
+</h3>
  
 <h3>Projects</h3>
 <ul>
