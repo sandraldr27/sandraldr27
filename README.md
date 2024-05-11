@@ -1,5 +1,5 @@
 <h1 align="center">Sandra León-Del Risco L.</h1>
-<h2 align="center">MBA & Project Manager | PMO | System Developer</h2>
+<h2 align="center">MBA | Agile Project Manager | PMO | ®Scrum Master | System Developer</h2>
 
 <h3 align="left">Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
@@ -25,6 +25,7 @@
     <li>Máster en Gestión Hospitalaria (Universidad Alcalá de Henares)</li> 
     <li>Máster en Gestión de la Calidad Total TQM (ITEAP)</li> 
     <li>Diploma Universitario en Coaching y PNL (ENEB - Universidad Isabel I de Castilla)</li> 
+    <li>Scrum Master certificada por Scrum Alliance®</li>
     <li>Certificado Profesional en Gestión de Proyectos (Google)</li> 
     <li>Certificado Profesional en Soporte IT (Google)</li>
     <li>Acreditación Oficial de Competencias Profesionales en: Desarrollo de Software en entorno del cliente (Junta de Andalucía)</li>
@@ -52,6 +53,7 @@
     <li>Master in Hospital Management (Alcalá de Henares University)</li> 
     <li>Master in Total Quality Management (ITEAP)</li> 
     <li>University Diploma in Coaching and NLP (ENEB - Isabel I University of Castilla)</li> 
+    <li>Scrum Master certified by Scrum Alliance®</li>
     <li>Professional Certificate in Project Management (Google)</li> 
     <li>Professional Certificate in IT Support (Google)</li>
     <li>Official Accreditation of Professional Competencies in: Software Development in a client environment (Junta de Andalucía)</li>
