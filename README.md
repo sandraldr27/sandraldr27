@@ -90,13 +90,17 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="jira" width="110" height="40"/>
 </a> 
 
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" width="110" height="40"/>
-</a>  
+<a href="https://www.scrumalliance.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Scrum%20Alliance-009FDA.svg?style=for-the-badge&logo=Scrum-Alliance&logoColor=white" alt="scrumAlliance" width="110" height="40"/>
+</a> 
 
 <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerbi" width="110" height="40"/>
 </a> 
+
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" width="110" height="40"/>
+</a>  
 
 </p>
 
