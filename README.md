@@ -106,6 +106,10 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" width="110" height="40"/>
 </a>  
 
+<a href="https://www.microsoft.com/es-es/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Microsoft%20SharePoint-0078D4.svg?style=for-the-badge&logo=Microsoft-SharePoint&logoColor=white" alt="sharepoint" width="110" height="40"/>
+</a>  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
