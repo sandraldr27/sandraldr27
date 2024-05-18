@@ -82,9 +82,8 @@
 <p align="left"> <a href="https://twitter.com/slilder_ldr" target="blank"><img src="https://img.shields.io/twitter/follow/slilder_ldr?logo=twitter&style=for-the-badge" alt="slilder_ldr" /></a> </p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<h4>Agile & Project Management:</h4>
+<h3>Agile & Project Management:</h3>
 <p align="left">
   
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
@@ -92,14 +91,16 @@
 </a>  
 
 <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> 
-<img src="(https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)" alt="trello" width="110" height="40"/>
+<img src="(https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)" alt="jira" width="110" height="40"/>
 </a> 
 
 <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-<img src="(https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)" alt="trello" width="110" height="40"/>
+<img src="(https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)" alt="powerbi" width="110" height="40"/>
 </a> 
 
-  
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <h4>Languages:</h4>
 <p align="left">
   
