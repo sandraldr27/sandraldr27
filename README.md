@@ -90,6 +90,10 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="jira" width="110" height="40"/>
 </a> 
 
+<a href="https://asana.com/es?gad_source=1&gclid=CjwKCAjwo6GyBhBwEiwAzQTmcxWyOE_1bJ9Vi2Jz0DoadPIkRPuHmuDiJjZca9hFUPa5-2RPw8WvOhoC0dcQAvD_BwE&gclsrc=aw.ds&utm_campaign=BRAND--EMEA--IBERIA_ES--EN--Core&utm_medium=pd_cpc_br&utm_source=google" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&logo=Asana&logoColor=white" alt="asana" width="110" height="40"/>
+</a> 
+
 <a href="https://www.scrumalliance.org/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Scrum%20Alliance-009FDA.svg?style=for-the-badge&logo=Scrum-Alliance&logoColor=white" alt="scrumAlliance" width="110" height="40"/>
 </a> 
