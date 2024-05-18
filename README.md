@@ -86,6 +86,10 @@
 <h3>Agile & Project Management:</h3>
 <p align="left">
   
+<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="jira" width="110" height="40"/>
+</a> 
+
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" width="110" height="40"/>
 </a>  
