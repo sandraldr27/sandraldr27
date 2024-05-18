@@ -84,6 +84,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h4>Agile & Project Management:</h4>
+<p align="left">
+  
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" width="110" height="40"/>
+</a>  
+
+<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> 
+<img src="(https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)" alt="trello" width="110" height="40"/>
+</a> 
+
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
+<img src="(https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)" alt="trello" width="110" height="40"/>
+</a> 
+
+  
 <h4>Languages:</h4>
 <p align="left">
   
@@ -233,10 +249,6 @@
   
 <a href="https://miro.com/login/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="miro" width="110" height="40"/>
-</a>   
-  
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" width="110" height="40"/>
 </a>   
   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
