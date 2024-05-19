@@ -2,7 +2,7 @@
 <h2 align="center">MBA | Agile Project Manager | PMO | ®Scrum Master | System Developer</h2>
 
 <p align="center">
-  <img src="![PortadaSandraGithub](https://github.com/sandraldr27/sandraldr27/assets/116546588/492eadbd-0677-4eb6-ab5f-01cae45e1fa3)" alt="Introduction">
+  <img src="![PortadaSandraGithub](https://github.com/sandraldr27/sandraldr27/assets/116546588/e5ed7f91-9e19-4266-a4e0-55380870de0a)" alt="Introduction">
 </p>
 
 <h3 align="left">Profile Views</h3>
