@@ -1,4 +1,4 @@
-<h1 align="center">Sandra León-DR</h1>
+<h1 align="center">Sandra León-Del Risco</h1>
 <h2 align="center">MBA | Agile Project Manager | PMO | ®Scrum Master | Software Dev</h2>
 
 <h3 align="left">Profile Views</h3>
