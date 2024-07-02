@@ -1,5 +1,5 @@
 <h1 align="center">Sandra León-DR</h1>
-<h2 align="center">MBA | Agile Project Manager | PMO | ®Scrum Master | Software Engineer</h2>
+<h2 align="center">MBA | Agile Project Manager | PMO | ®Scrum Master | Software Dev</h2>
 
 <h3 align="left">Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
