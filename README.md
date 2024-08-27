@@ -1,5 +1,5 @@
 <h1 align="center">Sandra León-Del Risco</h1>
-<h2 align="center">MBA | Agile Project Manager | PMO | ®Scrum Master | Software Dev</h2>
+<h2 align="center">MBA | Project Manager | ®Scrum Master | Software Dev</h2>
 
 <h3 align="left">Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
@@ -8,9 +8,9 @@
 
 <h3> About Me</h3>
 
-<p align="justify">Trained in Engineering & Fullstack Web Development. I work as a PM | PMO in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
+<p align="justify">Trained in Engineering & Fullstack Web Development. I work in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
-<p align="justify">I am a methodical and organized professional. I have experience in project management and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kanban, Scrum, Scrumban, Total Quality (TQM) and Continuous Improvement.</p>
+<p align="justify">I am a methodical and organized professional. I have experience in project management, management controller and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kaizen, Scrum, Lean, Total Quality (TQM) and Continuous Improvement.</p>
 
 <p>I have international experience working on projects in Europe, North America, Central America, South America, Middle East and Australia (Banking, pharmaceutical and hospital sectors).</p>
 
@@ -36,9 +36,9 @@
   
 <h3 align="justify">Sobre mí</h3>
 
-<p align="justify">Formada en Ingeniería y Desarrollo Web Fullstack. Trabajo como PM | PMO en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
+<p align="justify">Formada en Ingeniería y Desarrollo Web Fullstack. Trabajo en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
 
-<p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kanban, Scrum, Scrumban, Calidad Total (TQM) y Mejora Continua.</p>
+<p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos, controller de gestión y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kaizen, Scrum, Lean, Calidad Total (TQM) y Mejora Continua.</p>
 
 <p>Cuento con experiencia internacional trabajando en proyectos en Europa, Norte América, Centro América, Sudamérica, Oriente Medio y Australia (Sector banca, farmacéutico y hospitalario).</p>
 
