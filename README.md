@@ -1,5 +1,5 @@
 <h1 align="center">Sandra León-Del Risco</h1>
-<h2 align="center">MBA | Project Manager | ®Scrum Master | Software Dev</h2>
+<h2 align="center"> Quality Software Engineer | MBA | Project Manager | ®Scrum Master</h2>
 
 <h3 align="left">Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraldr27&label=Profile%20views&color=0e75b6&style=flat" alt="sandraldr27" /> </p>
@@ -8,7 +8,7 @@
 
 <h3> About Me</h3>
 
-<p align="justify">Trained in Engineering & Fullstack Web Development. I work in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
+<p align="justify">Trained in Quality Software Engineering & Fullstack Web Development. I work in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
 <p align="justify">I am a methodical and organized professional. I have experience in project management, management controller and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kaizen, Scrum, Lean, Total Quality (TQM) and Continuous Improvement.</p>
 
@@ -29,14 +29,14 @@
     <li>Professional Certificate in Project Management (Google)</li> 
     <li>Professional Certificate in IT Support (Google)</li>
     <li>Official Accreditation of Professional Competencies in: Software Development in a client environment (Junta de Andalucía)</li>
-     <li>Official Accreditation of Professional Competencies in: Implementation, verification and documentation of web applications in internet, intranet and extranet environments. (Junta de Andalucía)</li>
+    <li>Official Accreditation of Professional Competencies in: Implementation, verification and documentation of web applications in internet, intranet and extranet environments. (Junta de Andalucía)</li>
     <li>PAP in Psychology (Autonomous University of Barcelona)</li>
   </ul>
  </p>
   
 <h3 align="justify">Sobre mí</h3>
 
-<p align="justify">Formada en Ingeniería y Desarrollo Web Fullstack. Trabajo en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
+<p align="justify">Formada en Ingeniería de Aseguramiento de la Calidad del Software y Desarrollo Web Fullstack. Trabajo en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
 
 <p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos, controller de gestión y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kaizen, Scrum, Lean, Calidad Total (TQM) y Mejora Continua.</p>
 
