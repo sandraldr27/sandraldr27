@@ -1,4 +1,4 @@
-<h1 align="center">Sandra León DR h1>
+<h1 align="center">Sandra León DR </h1>
 <h2 align="center"> Quality Software Engineer | MBA | Project Manager | ®Scrum Master</h2>
 
 <h3 align="left">Profile Views</h3>
