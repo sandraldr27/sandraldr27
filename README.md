@@ -74,7 +74,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <ul>
-  <li>📫 How to reach me <b>sandraldr.dev@gmail.com</b></li>
+  <li>📫 How to reach me <b>frontendsandra@gmail.com</b></li>
 </ul>
 
 <a href="https://twitter.com/slilder_ldr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slilder_ldr" height="30" width="40" /></a>
