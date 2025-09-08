@@ -77,7 +77,6 @@
   <li>📫 How to reach me <b>frontendsandra@gmail.com</b></li>
 </ul>
 
-<p align="left"> <a href="https://twitter.com/slilder_ldr" target="blank"><img src="https://img.shields.io/twitter/follow/slilder_ldr?logo=twitter&style=for-the-badge" alt="slilder_ldr" /></a> </p>
 </p>
 
 
