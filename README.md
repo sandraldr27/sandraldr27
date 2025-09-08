@@ -77,8 +77,6 @@
   <li>📫 How to reach me <b>frontendsandra@gmail.com</b></li>
 </ul>
 
-<a href="https://twitter.com/slilder_ldr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slilder_ldr" height="30" width="40" /></a>
-<a href="https://instagram.com/sandraldr27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandraldr27" height="30" width="40" /></a>
 <p align="left"> <a href="https://twitter.com/slilder_ldr" target="blank"><img src="https://img.shields.io/twitter/follow/slilder_ldr?logo=twitter&style=for-the-badge" alt="slilder_ldr" /></a> </p>
 </p>
 
