@@ -8,7 +8,7 @@
 
 <h3> About Me</h3>
 
-<p align="justify">Trained in Quality Software Engineering & Fullstack Web Development. I work in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
+<p align="justify">Trained in Industrial Engineering & Quality Software Engineering & Fullstack Web Development. I work in a multinational company in the IT sector. I'm passionate about technology, the world of programming and working with people to help them bring out their best potential.</p>
 
 <p align="justify">I am a methodical and organized professional. I have experience in project management, management controller and functional analysis, having worked with Waterfall and Agile methodologies, as well as Kaizen, Scrum, Lean, Total Quality (TQM) and Continuous Improvement.</p>
 
@@ -36,7 +36,7 @@
   
 <h3 align="justify">Sobre mí</h3>
 
-<p align="justify">Formada en Ingeniería de Aseguramiento de la Calidad del Software y Desarrollo Web Fullstack. Trabajo en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
+<p align="justify">Formada en Ingeniería Industrial e Ingeniería de Aseguramiento de la Calidad del Software y Desarrollo Web Fullstack. Trabajo en una empresa multinacional del sector IT. Me apasiona la tecnología, el mundo de la programación y trabajar con personas para ayudarles a sacar de ellas su mejor potencial.</p>
 
 <p align="justify">Soy una profesional metódica y organizada. Cuento con experiencia en gestión de proyectos, controller de gestión y análisis funcional, habiendo trabajado con metodologías Waterfall y Agile, al igual que con Kaizen, Scrum, Lean, Calidad Total (TQM) y Mejora Continua.</p>
 
